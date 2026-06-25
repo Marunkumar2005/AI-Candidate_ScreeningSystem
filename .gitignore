@@ -8,3 +8,5 @@ dist/
 .DS_Store
 venv/
 *.egg-info/
+gift
+.env.example
